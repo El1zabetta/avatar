@@ -1,0 +1,49 @@
+.card__container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.main__card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.button__arrow {
+  background-color: aliceblue;
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__card2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__card3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__h3 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.card {
+  display: flex;
+  width: 206px;
+  height: 103px;
+  gap: 24px;
+}
+
+.card h4 {
+}
